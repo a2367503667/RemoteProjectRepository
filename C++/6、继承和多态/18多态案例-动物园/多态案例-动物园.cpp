@@ -191,7 +191,7 @@ void test01()
 {
 	MyZoo* mz = new MyZoo(50);
 
-	mz->addAnimal(new Dog("安培晋三"));
+	mz->addAnimal(new Dog("金毛"));
 	mz->addAnimal(new Duck("唐老鸭"));
 	mz->addAnimal(new Tiger("东北虎"));
 	mz->addAnimal(new Cat("咖啡猫"));
